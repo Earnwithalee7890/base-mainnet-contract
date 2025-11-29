@@ -1,0 +1,12 @@
+{
+  "name": "wc-contract",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.5",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}

@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.npm
+
+# Hardhat files
+cache/
+artifacts/
+typechain-types/
+
+# Environment variables (CRITICAL - Contains private key!)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Deployment logs
+deployments/
+
+# Coverage
+coverage/
+coverage.json
+
+# Build files
+build/
+dist/
