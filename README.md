@@ -10,8 +10,8 @@ Smart contract deployment project for Base Sepolia testnet and Base Mainnet.
 - **Status:** ✅ Verified
 
 ### Base Mainnet (Production)
-- **Contract Address:** `0x4E464b7Ad147CF3317bAEa4B96faf25c91e0855b`
-- **Explorer:** [View on BaseScan](https://basescan.org/address/0x4E464b7Ad147CF3317bAEa4B96faf25c91e0855b)
+- **Contract Address:** `0x398e9d15Ec835f44Fc323cF3Bf429e4f2c30a9eD`
+- **Explorer:** [View on BaseScan](https://basescan.org/address/0x398e9d15Ec835f44Fc323cF3Bf429e4f2c30a9eD)
 - **Status:** ✅ Verified
 
 ## 📋 Contract Details
