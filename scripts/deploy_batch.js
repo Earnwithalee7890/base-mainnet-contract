@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 async function main() {
-    const numberOfDeployments = 10;
+    const numberOfDeployments = 50;
     console.log(`Starting batch deployment of ${numberOfDeployments} contracts...`);
 
     const deployedAddresses = [];
